@@ -25,7 +25,7 @@ export default function App() {
             </p>
 
             <a
-              href="https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1081478505052898"
+              href="https://m.me/MrSolarPHOfficial?text=Hi%20interested%20ako%20sa%20solar"
               target="_blank"
               className="mt-6 inline-block bg-yellow-500 px-6 py-3 rounded-lg font-semibold"
             >
@@ -100,7 +100,7 @@ export default function App() {
         <h2 className="text-3xl font-bold">Free Solar Consultation</h2>
         <p className="mt-2">Message us now and get a custom quote</p>
         <a
-          href="https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1081478505052898"
+          href="https://m.me/MrSolarPHOfficial?text=Hi%20interested%20ako%20sa%20solar"
           target="_blank"
           className="mt-6 inline-block bg-black px-6 py-3 rounded-lg font-semibold"
         >
@@ -110,7 +110,7 @@ export default function App() {
 
       {/* FLOATING CHAT */}
       <a
-        href="https://business.facebook.com/latest/inbox/all/?nav_ref=manage_page_ap_plus_inbox_message_button&asset_id=1081478505052898"
+        href="https://m.me/MrSolarPHOfficial?text=Hi%20interested%20ako%20sa%20solar"
         target="_blank"
         className="fixed bottom-5 right-5 bg-blue-600 text-white px-4 py-3 rounded-full shadow-lg"
       >
