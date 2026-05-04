@@ -15,6 +15,15 @@ export default function App() {
           className="absolute w-full h-full object-cover"
         ></video>
 
+        {/* Logo top-left */}
+        <div className="absolute top-5 left-5">
+          <img
+            src="https://scontent.fmnl13-3.fna.fbcdn.net/v/t39.30808-6/688008753_2021945682091215_4211058035190240609_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=76fC59AfhEcQ7kNvwH2ib-Z&_nc_oc=AdorT075dgD-HwNaRCSulhMlpgst4SKxMHZplxTUoaHUiiy0ud0yvxf8dbuLjPgW9pu7KwcszcR7mKxu1Fbhra5l&_nc_zt=23&_nc_ht=scontent.fmnl13-3.fna&_nc_gid=lIMvaz7_zEIVW3BqXJCtsA&_nc_ss=7b2a8&oh=00_Af5FkOfcA27YuBQ370nB_K9_1IQ4JmYeCLv7FckK-RDdZA&oe=69FDA6C8"
+            alt="Mr. Solar PH Logo"
+            className="w-20 h-20 rounded-full shadow-lg border-2 border-white"
+          />
+        </div>
+
         <div className="absolute inset-0 bg-black/60 flex items-center justify-center text-center text-white px-6">
           <div className="max-w-xl">
             <h1 className="text-4xl md:text-6xl font-bold">
